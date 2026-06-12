@@ -1,12 +1,12 @@
-# Privacy Policy — Gym Log
+# Privacy Policy — RepLog
 
 _Last updated: 12 June 2026_
 
-Gym Log is designed to be private by default.
+RepLog is designed to be private by default.
 
 ## What we collect
 
-**Nothing.** Gym Log does not collect, transmit, or share any personal data.
+**Nothing.** RepLog does not collect, transmit, or share any personal data.
 
 - All your workouts, routines, exercises, and settings are stored **only on your
   device**, using local storage.
@@ -22,7 +22,7 @@ app removes this data permanently. We cannot recover it because we never have it
 
 ## Children's privacy
 
-Gym Log does not collect data from anyone, including children under 13.
+RepLog does not collect data from anyone, including children under 13.
 
 ## Changes
 

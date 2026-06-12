@@ -1,6 +1,6 @@
 # App Store submission kit
 
-Everything needed to list Gym Log. Copy/paste the listing fields into
+Everything needed to list RepLog. Copy/paste the listing fields into
 App Store Connect when the time comes.
 
 ## Build & submit commands (run once accounts exist)
@@ -20,7 +20,7 @@ Apple Developer account once and it handles the rest.
 
 ## Listing fields
 
-**App name:** Gym Log
+**App name:** RepLog – Gym Tracker
 
 **Subtitle (30 chars max):** Simple workout & glute tracker
 
@@ -29,7 +29,7 @@ Log lifts in seconds, follow built-in routines like Bro Split, A/B and Booty
 Builder, and watch your weights climb. Free, no account, no ads.
 
 **Description:**
-Gym Log is the no-nonsense way to track your training.
+RepLog is the no-nonsense way to track your training.
 
 Pick a ready-made routine — Bro Split (5 days), A/B Day (3 days), or the
 glute-focused Booty Builder (3 days) — or build your own. Start a workout and
@@ -57,7 +57,7 @@ gym,workout,log,lifting,routine,glutes,booty,strength,exercise,tracker,sets,reps
 ## App privacy ("nutrition label") answers
 
 When App Store Connect asks what data you collect, select:
-**"Data Not Collected."** Gym Log stores everything locally and has no servers.
+**"Data Not Collected."** RepLog stores everything locally and has no servers.
 
 ## Hosting the privacy policy (free)
 

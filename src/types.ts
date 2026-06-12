@@ -1,4 +1,4 @@
-// Core data models for the gym log app.
+// Core data models for the RepLog app.
 
 export type MuscleGroup =
   | 'Chest'

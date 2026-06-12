@@ -1,4 +1,4 @@
-# Gym Log — Roadmap
+# RepLog — Roadmap
 
 ## Monetization strategy
 

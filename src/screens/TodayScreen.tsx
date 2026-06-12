@@ -18,6 +18,7 @@ export function TodayScreen({ goToRoutines }: { goToRoutines: () => void }) {
 
   return (
     <ScrollView contentContainerStyle={styles.scroll}>
+      <Text style={styles.brand}>REPLOG</Text>
       <H1>Today</H1>
       <Muted style={{ marginBottom: space(4) }}>
         {new Date().toLocaleDateString(undefined, {
@@ -104,6 +105,7 @@ export function TodayScreen({ goToRoutines }: { goToRoutines: () => void }) {
 
 const makeStyles = (c: Colors) => StyleSheet.create({
   scroll: { padding: space(4), paddingBottom: space(16) },
+  brand: { color: c.primary, fontSize: 13, fontWeight: '800', letterSpacing: 3, marginBottom: 2 },
   routineHead: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   change: { color: c.primary, fontWeight: '700', fontSize: 14 },
   routineName: { color: c.text, fontSize: 22, fontWeight: '800' },
