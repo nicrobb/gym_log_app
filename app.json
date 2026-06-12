@@ -35,6 +35,12 @@
           "resizeMode": "contain"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "aa9fcd45-f85e-4b47-b7cc-ddc9f7d4cf9f"
+      }
+    },
+    "owner": "nicrobb"
   }
 }
